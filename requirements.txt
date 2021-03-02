@@ -1,0 +1,5 @@
+# hypro dependencies
+numpy
+numba
+scipy
+gdal
